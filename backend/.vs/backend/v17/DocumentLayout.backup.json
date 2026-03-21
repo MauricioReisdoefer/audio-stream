@@ -1,12 +1,70 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\cabra\\OneDrive\\Documentos\\programacao\\audio-stream\\backend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{353E52C6-7925-44AE-B16F-7212A5D751E2}|backend.csproj|c:\\users\\cabra\\onedrive\\documentos\\programacao\\audio-stream\\backend\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353E52C6-7925-44AE-B16F-7212A5D751E2}|backend.csproj|solutionrelative:controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353E52C6-7925-44AE-B16F-7212A5D751E2}|backend.csproj|c:\\users\\cabra\\onedrive\\documentos\\programacao\\audio-stream\\backend\\models\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353E52C6-7925-44AE-B16F-7212A5D751E2}|backend.csproj|solutionrelative:models\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353E52C6-7925-44AE-B16F-7212A5D751E2}|backend.csproj|c:\\users\\cabra\\onedrive\\documentos\\programacao\\audio-stream\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353E52C6-7925-44AE-B16F-7212A5D751E2}|backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cabra\\OneDrive\\Documentos\\programacao\\audio-stream\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\cabra\\OneDrive\\Documentos\\programacao\\audio-stream\\backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T16:56:24.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusicController.cs",
+              "DocumentMoniker": "C:\\Users\\cabra\\OneDrive\\Documentos\\programacao\\audio-stream\\backend\\Controllers\\MusicController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MusicController.cs",
+              "ToolTip": "C:\\Users\\cabra\\OneDrive\\Documentos\\programacao\\audio-stream\\backend\\Controllers\\MusicController.cs",
+              "RelativeToolTip": "Controllers\\MusicController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T16:53:40.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Music.cs",
+              "DocumentMoniker": "C:\\Users\\cabra\\OneDrive\\Documentos\\programacao\\audio-stream\\backend\\Models\\Music.cs",
+              "RelativeDocumentMoniker": "Models\\Music.cs",
+              "ToolTip": "C:\\Users\\cabra\\OneDrive\\Documentos\\programacao\\audio-stream\\backend\\Models\\Music.cs",
+              "RelativeToolTip": "Models\\Music.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T16:49:34.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
