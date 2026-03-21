@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\cabra\\OneDrive\\Documentos\\programacao\\audio-stream\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{353E52C6-7925-44AE-B16F-7212A5D751E2}|backend.csproj|c:\\users\\cabra\\onedrive\\documentos\\programacao\\audio-stream\\backend\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{353E52C6-7925-44AE-B16F-7212A5D751E2}|backend.csproj|solutionrelative:controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{353E52C6-7925-44AE-B16F-7212A5D751E2}|backend.csproj|c:\\users\\cabra\\onedrive\\documentos\\programacao\\audio-stream\\backend\\domain\\entities\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353E52C6-7925-44AE-B16F-7212A5D751E2}|backend.csproj|solutionrelative:domain\\entities\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{353E52C6-7925-44AE-B16F-7212A5D751E2}|backend.csproj|c:\\users\\cabra\\onedrive\\documentos\\programacao\\audio-stream\\backend\\models\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{353E52C6-7925-44AE-B16F-7212A5D751E2}|backend.csproj|solutionrelative:models\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{353E52C6-7925-44AE-B16F-7212A5D751E2}|backend.csproj|c:\\users\\cabra\\onedrive\\documentos\\programacao\\audio-stream\\backend\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353E52C6-7925-44AE-B16F-7212A5D751E2}|backend.csproj|solutionrelative:controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{353E52C6-7925-44AE-B16F-7212A5D751E2}|backend.csproj|c:\\users\\cabra\\onedrive\\documentos\\programacao\\audio-stream\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -38,26 +38,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MusicController.cs",
               "DocumentMoniker": "C:\\Users\\cabra\\OneDrive\\Documentos\\programacao\\audio-stream\\backend\\Controllers\\MusicController.cs",
               "RelativeDocumentMoniker": "Controllers\\MusicController.cs",
               "ToolTip": "C:\\Users\\cabra\\OneDrive\\Documentos\\programacao\\audio-stream\\backend\\Controllers\\MusicController.cs",
               "RelativeToolTip": "Controllers\\MusicController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-20T16:53:40.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Music.cs",
-              "DocumentMoniker": "C:\\Users\\cabra\\OneDrive\\Documentos\\programacao\\audio-stream\\backend\\Models\\Music.cs",
-              "RelativeDocumentMoniker": "Models\\Music.cs",
-              "ToolTip": "C:\\Users\\cabra\\OneDrive\\Documentos\\programacao\\audio-stream\\backend\\Models\\Music.cs",
-              "RelativeToolTip": "Models\\Music.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\cabra\\OneDrive\\Documentos\\programacao\\audio-stream\\backend\\Domain\\Entities\\Music.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Music.cs",
+              "ToolTip": "C:\\Users\\cabra\\OneDrive\\Documentos\\programacao\\audio-stream\\backend\\Domain\\Entities\\Music.cs",
+              "RelativeToolTip": "Domain\\Entities\\Music.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-20T16:49:34.854Z",
               "EditorCaption": ""
